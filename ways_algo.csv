@@ -1,0 +1,616 @@
+,street_name,amenity_type,count
+0,Área La Rotonda,shelter,1
+1,Álvarez Thomas,restaurant,1
+2,carcel_judicial,prison,1
+3,calle 19,school,1
+4,area residencial,bar,2
+5,Zaragoza,pharmacy,2
+6,Yourka,bus_station,1
+7,Village Praia,parking_entrance,2
+8,Villa 20,public_bookcase,1
+9,Vila dos Ingleses,parking_entrance,1
+10,Vila José Lobosque,parking,1
+11,Vila Antônio Bezerra,restaurant,1
+12,Vicuña Mackenna,bench,1
+13,Victor G. Garces,taxi,1
+14,Vicente Rocafuerte,bus_station,1
+15,Via cementerio calle 3,veterinary,1
+16,Via Zhud Suscal La Troncal,place_of_worship,1
+17,Via Veneto,cafe,1
+18,Via Veneto,restaurant,1
+19,Venezuela,fast_food,1
+20,Urbina,atm,1
+21,Urb. Alameda del Rio,pharmacy,1
+22,Up Life,parking_entrance,1
+23,Unidad Residencial Colseguros,parking_entrance,1
+24,Tucupi,ferry_terminal,1
+25,Travessa dos Mártires,bank,1
+26,Travessa Teódulo de Albuquerque,parking,1
+27,Travessa São Francisco,ferry_terminal,1
+28,Travessa Rui Barbosa,ferry_terminal,1
+29,Travessa Osvaldo Cruz,fast_food,1
+30,Travessa Nazaré,ferry_terminal,1
+31,Travessa José Rolando,hospital,1
+32,Travessa Granja,pub,1
+33,Travessa Dona Agostinha,ferry_terminal,1
+34,Travessa Agostinho Cardoso da Silva,ferry_terminal,1
+35,Travessa 4,restaurant,1
+36,Tiburcio Saavedra,parking,1
+37,Stewart Shipton,fuel,1
+38,Steffenelli,parking_entrance,1
+39,Spazio Vita,parking,1
+40,Simón Bolívar,parking_entrance,1
+41,Simón Bolivar,water_point,1
+42,Segunda Etapa - Condomínio Itaparica Sol,taxi,1
+43,Sebastian Guillen,restaurant,1
+44,School Street,place_of_worship,1
+45,Sargento Cabral,taxi,1
+46,Santa Rosa,school,1
+47,Santa María Reservado 3,community_centre,1
+48,Santa Cruz,taxi,1
+49,San Pedro de Tiquina,ferry_terminal,3
+50,San Buenaventura,ferry_terminal,2
+51,Rue Carlos Finley,parking,1
+52,Rua dos Metalúrgicos,taxi,1
+53,Rua dos Metalúrgicos,telephone,1
+54,Rua do Porto do Banho,ferry_terminal,1
+55,Rua do Pombo,parking,1
+56,Rua do Hospital,parking_entrance,1
+57,Rua da Telebahia,restaurant,1
+58,Rua da Rádio,ferry_terminal,1
+59,Rua da Praia,common,2
+60,Rua da Paciência,ferry_terminal,1
+61,Rua da Mangueira,ferry_terminal,1
+62,Rua da Esperança,grave_yard,1
+63,Rua da Consolação,motorcycle_parking,1
+64,Rua da Barca,ferry_terminal,1
+65,Rua Yolanda Brandão Correia,waste_basket,1
+66,Rua Xavier da Silva,parking,1
+67,Rua Varsóvia,school,1
+68,Rua Turquesa,bar,1
+69,Rua Tiradentes (21 de Abril).,restaurant,1
+70,Rua Tibirica,ferry_terminal,1
+71,Rua Tamoyo,bicycle_parking,1
+72,Rua Sérgio Carlos de Matos,parking,1
+73,Rua São Pedro,bar,1
+74,Rua São Paulo,taxi,1
+75,Rua São Gabriel da Costa,place_of_worship,1
+76,Rua Simplício Mendes,parking,5
+77,Rua Silva Pinto,fast_food,1
+78,Rua Sete de Setembro,bank,1
+79,Rua Senador Teodoro Pacheco,motorcycle_parking,6
+80,Rua Senador Teodoro Pacheco,parking,5
+81,Rua Sem Denominação,ferry_terminal,1
+82,Rua Segunda,ferry_terminal,1
+83,Rua Sebastião Amaro,place_of_worship,1
+84,Rua Santo Indalecio,place_of_worship,1
+85,Rua Santo Américo,parking_entrance,1
+86,Rua Santa Clara,parking_entrance,1
+87,Rua S,pub,1
+88,Rua Rita Eliondo de Melo,police,1
+89,Rua Riachuelo,restaurant,1
+90,Rua Raimundo Ramos dos Santos,school,1
+91,Rua Quinzinho do Amaral,ferry_terminal,1
+92,Rua Ptolmeu Assis Brasil,ferry_terminal,1
+93,Rua Projetada,place_of_worship,1
+94,Rua Professor José Maurício Higgins,school,1
+95,Rua Presidente Getúlio Vargas,school,1
+96,Rua Pedro Pires de Campos,cinema,1
+97,Rua Pedro Pinto,restaurant,1
+98,Rua Pedreiras,ferry_terminal,1
+99,Rua Paulo VI,bicycle_parking,1
+100,Rua Paraíba,bank,1
+101,Rua Parati,fast_food,1
+102,Rua Padre Roma,bench,1
+103,Rua Padre Manuel da Nóbrega,bus_station,1
+104,Rua Padre Manuel Primo de Sousa,bank,1
+105,Rua Padre Demétrios,ferry_terminal,1
+106,Rua Otávio de Assis,place_of_worship,1
+107,Rua Osvaldo Aranha,townhall,1
+108,Rua Nossa Senhora da Saúde,parking,1
+109,Rua Nereu Ramos,ferry_terminal,1
+110,Rua Nelson de Oliveira,social_facility,1
+111,Rua Mário Castaldelli,school,1
+112,Rua Matias Cardoso,cafe,2
+113,Rua Marinho Chaves,school,1
+114,Rua Mariano Lanziani,fuel,1
+115,Rua Maria Grazia Errico,parking,1
+116,Rua Maranhão,restaurant,1
+117,Rua Manoel Rodrigues,ferry_terminal,1
+118,Rua Manoel Cruz,place_of_worship,1
+119,Rua Manoel Alexandre,ferry_terminal,1
+120,Rua Luiz Gama,parking,1
+121,Rua Leopoldo Couto de Magalhães Júnior,parking,1
+122,Rua Laurindo Izidoro Jaqueta,cinema,1
+123,Rua João de Oliveira Franco,bus_station,1
+124,Rua João Libanio,ferry_terminal,1
+125,Rua João Batista Brisola,taxi,2
+126,Rua Jovino Silvério Pereira,telephone,1
+127,Rua José Roberto Cirino Lopes,ferry_terminal,1
+128,Rua José Paulino da Silva,restaurant,1
+129,Rua José Mastrangelo,bicycle_rental,1
+130,Rua José Manoel da Silva,grave_yard,1
+131,Rua José Jaime Rodrigues,parking,1
+132,Rua José Balan,place_of_worship,1
+133,Rua José Avelino,bank,1
+134,Rua Jackson de Figueiredo,bank,1
+135,Rua Ipiranga,pub,1
+136,Rua Ipe Roxo,bus_station,1
+137,Rua Ipe Amarelo,bus_station,2
+138,Rua Indaiatuba,kindergarten,1
+139,Rua Haeckel José de Almeida,taxi,1
+140,Rua Grécia,bar,1
+141,Rua Greenhals,taxi,1
+142,Rua General Câmara,motorcycle_parking,1
+143,Rua General Cristóvão Barcelos,bicycle_parking,1
+144,Rua Garca,school,1
+145,Rua Galdino Veloso,bank,1
+146,Rua G,ferry_terminal,1
+147,Rua Frei Luiz,taxi,1
+148,Rua Francesco Granacci,telephone,1
+149,Rua Engenho da Conceição,ferry_terminal,1
+150,Rua Engenheiro Prestes Maia,taxi,1
+151,Rua Engenheiro Prestes Maia,telephone,1
+152,Rua Elpidio de Andrade,ferry_terminal,1
+153,Rua Eleonora Cintra,parking_entrance,1
+154,Rua Eduardo Pinto,fast_food,1
+155,Rua Doutor Roberto da Silveira,fuel,1
+156,Rua Doutor Manoel Nogueira,parking,1
+157,Rua Doutor Fróes da Cruz,parking_space,1
+158,Rua Dona Teresa,parking_space,1
+159,Rua Dona Brígida,fast_food,1
+160,Rua Direita,place_of_worship,1
+161,Rua Direita,restaurant,1
+162,Rua Dez,school,1
+163,Rua David Caldas,parking,1
+164,Rua Célio Cerqueira,pharmacy,1
+165,Rua Cruz e Souza,taxi,1
+166,Rua Coronel Ruy,nursing_home,1
+167,Rua Coronel Osório,school,1
+168,Rua Coronel Frederico Martins,studio,1
+169,Rua Coronel Araújo Ribeiro,bank,1
+170,Rua Coqueiral,place_of_worship,1
+171,Rua Comendador Miguel Calfat,bicycle_rental,1
+172,Rua Cesário Alvim,fuel,1
+173,Rua Cecilia Santana Romão,fast_food,1
+174,Rua Carlos Vergani,yes,1
+175,Rua Carlos Azevedo,taxi,1
+176,Rua Caraíba,place_of_worship,1
+177,Rua Capelão Álvares da Silva,bar,1
+178,Rua C. B. Sena,kindergarten,1
+179,Rua C,parking_entrance,2
+180,Rua C,place_of_worship,1
+181,Rua Brasiliana,pub,1
+182,Rua Bingue Ribeiro,place_of_worship,1
+183,Rua Benedito Alves Moreira,fuel,1
+184,Rua Belizardo Franco,ferry_terminal,1
+185,Rua Bandeira Paulista,bicycle_rental,1
+186,Rua Baluarte,bicycle_rental,1
+187,Rua Bahia,place_of_worship,1
+188,Rua Ayrton Senna,bench,1
+189,Rua Artur Silva,fuel,1
+190,Rua Antônio Vita,fast_food,1
+191,Rua Antônio Silva,place_of_worship,1
+192,Rua Antônio Ourique,fuel,1
+193,Rua Antônio Dias,place_of_worship,1
+194,Rua Antonio Reginatto,ferry_terminal,1
+195,Rua Antonio Perrota,bank,1
+196,Rua Andrelino de Morais,school,2
+197,Rua Amparo,kindergarten,1
+198,Rua Alzira de Oliveira Freitas,telephone,2
+199,Rua Altíno Marinho,bank,1
+200,Rua Alexandre Rodrigues de Souza,fast_food,1
+201,Rua Agripino Francisco Martins,bank,1
+202,Rua Afonso Vincoletto,restaurant,1
+203,Rua Adalberto da Silva Vidinha,ferry_terminal,1
+204,Rua 7 de Setembro,hospital,1
+205,Rua 4,place_of_worship,1
+206,Rua 35,bus_station,1
+207,Rua 34,fuel,1
+208,Rua 24 de Janeiro,parking,5
+209,Rodrigez De Guzman,restaurant,1
+210,Rocafuerte,pharmacy,1
+211,Roberto Payró,bus_station,1
+212,Residencial Spazio Campos di Provence,parking_entrance,1
+213,Residencial Nova Mooca,taxi,1
+214,Recanto do Sossego,restaurant,1
+215,QOF,fire_station,1
+216,Puerto Consuelo II,ferry_terminal,1
+217,Profeta Ageo,bus_station,1
+218,Prince William Street,hospital,1
+219,Praça Professor José Franklin,ferry_terminal,1
+220,Praça Pereira Coutinho,bicycle_rental,1
+221,Praça Bom Jesus,motorcycle_parking,4
+222,Pichincha,bus_station,1
+223,Península Lazer & Urbanismo,parking_entrance,1
+224,Península,bicycle_parking,1
+225,Pedro Carbo,fast_food,1
+226,Pastaza,bus_station,1
+227,Passagem Ramo Esmeralda,community_centre,1
+228,Passagem Moraes,community_centre,1
+229,Passagem Fé em Deus,bus_station,1
+230,Passagem Dalva,bus_station,1
+231,Pasaje Amanecer,bus_station,1
+232,Pasaje 22,bus_station,1
+233,Parque Piauí,bus_station,1
+234,Padre Egidio Cardozo,parking_entrance,1
+235,P. M. Araoz: Calle 58,bicycle_parking,1
+236,Onceava,police,1
+237,Olessio,public_bookcase,1
+238,Obispo Mosquera,pharmacy,1
+239,Mz C,car_wash,1
+240,Montalvo,atm,1
+241,Montalvo,bus_station,1
+242,Miguel Delgado,school,1
+243,Miguel Cordero Davila,parking_entrance,1
+244,Miguel Cordero Davila,hospital,2
+245,Maximiliano Spiller,school,1
+246,Mariano Cueva,taxi,1
+247,Marchena,cafe,1
+248,Marbella,school,1
+249,Manzana 17,pharmacy,1
+250,Manuel Verbal,parking,1
+251,Manuel Orozco,place_of_worship,2
+252,Manuel J Calle,university,1
+253,Manuel Estrada,university,1
+254,Manta,restaurant,1
+255,M. I. Loza,school,1
+256,Luis Vernaza,bus_station,1
+257,Luis Moreno Mora,parking_entrance,1
+258,Luis Bastidas,restaurant,1
+259,Los Rios,school,1
+260,Los Maquis,place_of_worship,1
+261,Los Arrayanes de Sauzalito,fast_food,1
+262,Londrina Country Club,parking_entrance,2
+263,Las Clivas,parking_entrance,1
+264,Junín,pharmacy,1
+265,Juan Emiliano O'Leary,bank,1
+266,José Zavala Ríos,taxi,1
+267,José Rodriguez Peralta,parking_entrance,1
+268,José Monreal,kindergarten,1
+269,Josefa Rosello,hospital,1
+270,Jirón Ancash,place_of_worship,1
+271,Jardim do Alto,parking_entrance,1
+272,Intendente Paz,place_of_worship,1
+273,Ingeniero Olmos,library,1
+274,Ilha da Gigóia,ferry_terminal,2
+275,Héroes del Cenepa,university,2
+276,Huaihuén,kindergarten,1
+277,Hipolito Yrigoyen,townhall,1
+278,Guatemala,taxi,1
+279,Gran Colombia,bank,1
+280,Graciana Amaral,car_wash,1
+281,Gonzales Chaves,school,1
+282,General López,theatre,1
+283,General Jose De San Martin,parking_entrance,2
+284,Gabriel José Luque,bus_station,1
+285,Fundadores Del Canton,library,1
+286,Freire,car_wash,1
+287,Franco,place_of_worship,1
+288,Francisco Miranda,police,1
+289,Francia,restaurant,1
+290,Florida,kindergarten,1
+291,Federación,community_centre,1
+292,Faixa de Táxi,taxi,1
+293,Eugenio Espejo,taxi,1
+294,Estrada para Praia,parking,1
+295,Estrada do Terminal,ferry_terminal,1
+296,Estrada Parque Zoológico,ferry_terminal,1
+297,Estanislao Zeballos,bench,1
+298,Emiliano Zapata,parking_entrance,1
+299,Embarcadero,vending_machine,1
+300,El Cocuy,hospital,1
+301,El Bonito,police,1
+302,Edmundo Martinez,doctors,1
+303,Edifício Willy Schwarck,pub,1
+304,Edificio ricaurte,parking,1
+305,Edificio ricaurte,cafe,2
+306,Edificio Palm Beach,parking_entrance,2
+307,Edificio Cantegril,parking,1
+308,E19a,place_of_worship,1
+309,Diagonal 26P13,ortss,1
+310,Del Pedregal,parking_entrance,2
+311,Dante Alighieri,school,1
+312,Daniel Ojeda,fire_station,1
+313,Córdoba,community_centre,1
+314,César Augusto Salazar,fuel,1
+315,Cádiz,waste_disposal,1
+316,C´aspichaca,bus_station,1
+317,Cristóbal Colón,arts_centre,1
+318,Cra 28 C Bis,parking_entrance,1
+319,Conjunto Residencial Sierra Brava,parking_entrance,1
+320,Conjunto João Goulart,place_of_worship,1
+321,Condomínio Piazza Strauss,parking_entrance,1
+322,Condomínio Dolce Villa,parking_entrance,1
+323,Company Road,fuel,1
+324,Colón,restaurant,1
+325,Colonia indígena Ayoreos,ferry_terminal,1
+326,Colina Club Residencial,restaurant,1
+327,Colina Club Residencial,cafe,2
+328,Colegio Vicente León,school,1
+329,Citta Residence,bicycle_parking,2
+330,Central Operativa de la Policía de Carreteras,parking_entrance,1
+331,Cañaveral,restaurant,1
+332,Cañaris,dentist,1
+333,Carrera 9,public_building,1
+334,Carrera 86G,waste_disposal,2
+335,Carrera 8,school,2
+336,Carrera 8,restaurant,1
+337,Carrera 7P,doctors,1
+338,Carrera 77,school,1
+339,Carrera 77,fast_food,1
+340,Carrera 75,school,1
+341,Carrera 7,cafe,2
+342,Carrera 6,marketplace,1
+343,Carrera 5,studio,1
+344,Carrera 44A,restaurant,1
+345,Carrera 4,bus_station,1
+346,Carrera 37,fast_food,1
+347,Carrera 32,atm,1
+348,Carrera 30B,parking_entrance,1
+349,Carrera 3,place_of_worship,2
+350,Carrera 28E4,parking_entrance,1
+351,Carrera 28 E,parking_entrance,2
+352,Carrera 28 D4,parking_entrance,3
+353,Carrera 28 B,parking_entrance,1
+354,Carrera 28,place_of_worship,1
+355,Carrera 26M,ortss,1
+356,Carrera 25,fuel,1
+357,Carrera 23 a,parking,1
+358,Carrera 21,taxi,1
+359,Carrera 20; Pbro. Correa,place_of_worship,1
+360,Carrera 20,parking_entrance,1
+361,Carrera 20,townhall,1
+362,Carrera 2,restaurant,1
+363,Carrera 19,community_centre,1
+364,Carrera 18R,school,1
+365,Carrera 18,school,1
+366,Carrera 15,bicycle_parking,2
+367,Carrera 13,parking,1
+368,Carrera 107B,cafe,1
+369,Carrera 105A,restaurant,1
+370,Carrera 103A,nightclub,1
+371,Carpentier,parking_entrance,1
+372,Carlos Mariategui,parking_entrance,1
+373,Calle Yanacuna,bus_station,1
+374,Calle Wawaki,bus_station,1
+375,Calle Waldo Ballivián,bus_station,2
+376,Calle Volcán Tolima,bus_station,2
+377,Calle Villamontes,bus_station,1
+378,Calle Viena,bus_station,2
+379,Calle Tupac Katari,bus_station,1
+380,Calle Trojes,bus_station,2
+381,Calle Torres,police,1
+382,Calle Tomás Barron,bus_station,2
+383,Calle T. Achu,bus_station,2
+384,Calle Sora-Sora,bus_station,2
+385,Calle San Salvador,bus_station,2
+386,Calle San Luis,bus_station,2
+387,Calle Ruminawi,bus_station,1
+388,Calle República de Nicaragua,bus_station,1
+389,Calle República de Haití,bus_station,3
+390,Calle República Dominicana,bus_station,4
+391,Calle Rafael Bustillo-Norte,bus_station,2
+392,Calle R. Levano,bus_station,1
+393,Calle Qurisunqu,bus_station,2
+394,Calle Quripacha,bus_station,2
+395,Calle Qhochapampa,bus_station,2
+396,Calle Provincia General José Ballivián,bus_station,2
+397,Calle Provincia F. Baldivieso,bus_station,1
+398,Calle Provincia Camacho,bus_station,1
+399,Calle Pozo de Gas Boquerón,bus_station,2
+400,Calle Porvenir,bus_station,1
+401,Calle Portugal,bus_station,1
+402,Calle Poopó,bus_station,2
+403,Calle Pascual Canaviri,bus_station,1
+404,Calle Papayo,bus_station,2
+405,Calle Padre Bertha,bus_station,2
+406,Calle Pachamit'a,bus_station,2
+407,Calle Obrajes,bus_station,2
+408,Calle Noruega,bus_station,2
+409,Calle Niceto Rodriguez,bus_station,2
+410,Calle Monseñor O. Arnulfo Romero,bus_station,2
+411,Calle Mina San Pedro,bus_station,2
+412,Calle María Luisa Pacheco,bus_station,1
+413,Calle Manuel de Falla,bus_station,2
+414,Calle M. R. Saravia de Lanza,bus_station,1
+415,Calle Luis Zegarra,bus_station,2
+416,Calle Lucia Alcocer,bus_station,1
+417,Calle Litoral,bus_station,7
+418,Calle Las Buganvillas,bus_station,2
+419,Calle La Cascada,bus_station,1
+420,Calle LL,school,1
+421,Calle Juan Aldon,bus_station,1
+422,Calle Jose Martinez,bus_station,1
+423,Calle Jose Eduardo Guerra,bus_station,1
+424,Calle Jorge Ugaeta,bus_station,2
+425,Calle J. Macedonio Urquidi,bus_station,2
+426,Calle J. M. Antezana,bus_station,1
+427,Calle J. Canedo,bus_station,2
+428,Calle Isla del Sol,bus_station,1
+429,Calle Héroes de Boquerón,bus_station,1
+430,Calle Hugo Almaraz,bus_station,1
+431,Calle Honduras,bus_station,1
+432,Calle Holanda,bus_station,2
+433,Calle Hilario Carrasco,fast_food,1
+434,Calle Grover Suarez,bus_station,2
+435,Calle Grau,bank,1
+436,Calle Gran Chaco,bus_station,2
+437,Calle Gonzales Suarez,college,1
+438,Calle Francisco de Goya,bus_station,1
+439,Calle Francis Peyton Rous,bus_station,1
+440,Calle Francia,bus_station,1
+441,Calle Felix Reyes Ortiz,bus_station,1
+442,Calle Esteban Arce,bus_station,2
+443,Calle El Samán,hospital,1
+444,Calle Echeandía,college,1
+445,Calle Daniel Campos,school,1
+446,Calle Curupau,bus_station,2
+447,Calle Combate del Desaguadero,bus_station,1
+448,Calle Combate de Chacaltaya,bus_station,2
+449,Calle Charles Darwin,bus_station,2
+450,Calle Canichana,bus_station,2
+451,Calle Canasita,bus_station,1
+452,Calle Camiri,bus_station,2
+453,Calle Calamarca,bus_station,1
+454,Calle Calama,waste_basket,1
+455,Calle C,police,1
+456,Calle Arq. Max Franz Carre,bus_station,1
+457,Calle Arawaqui,bus_station,2
+458,Calle Antofagasta,bus_station,2
+459,Calle Alipio Valencia Vega,bus_station,1
+460,Calle Alfredo Guillén,bus_station,1
+461,Calle Albert Einstein,bus_station,1
+462,Calle Acre,bus_station,2
+463,Calle Achachairú,bus_station,2
+464,Calle Abelia,bus_station,1
+465,Calle A. Borda,bus_station,2
+466,Calle 9,restaurant,2
+467,Calle 82,parking,1
+468,Calle 8,restaurant,1
+469,Calle 72A,bank,1
+470,Calle 7,police,1
+471,Calle 69,cafe,1
+472,Calle 67 Bis,school,1
+473,Calle 64C,school,1
+474,Calle 6,bus_station,2
+475,Calle 6,dentist,1
+476,Calle 5,atm,1
+477,Calle 5,fast_food,1
+478,Calle 48A,bank,1
+479,Calle 46,college,1
+480,Calle 41 Sur,fast_food,1
+481,Calle 40A Sur,waste_disposal,1
+482,Calle 40 Bis Sur,waste_disposal,1
+483,Calle 40,restaurant,1
+484,Calle 4 sur,place_of_worship,2
+485,Calle 4,place_of_worship,3
+486,Calle 33A,clock,1
+487,Calle 3,cafe,1
+488,Calle 3,restaurant,1
+489,Calle 3,taxi,1
+490,Calle 2A,bicycle_parking,1
+491,Calle 26 Norte,doctors,1
+492,Calle 22 Bis Norte,doctors,1
+493,Calle 22,hospital,1
+494,Calle 21a,Iglesia Inmaculado Corazon de Maria,1
+495,Calle 21,restaurant,1
+496,Calle 18 (Las alegres mañanitas),atm,2
+497,Calle 18,public_bookcase,1
+498,Calle 17,cafe,1
+499,Calle 17,taxi,1
+500,Calle 16,hospital,2
+501,Calle 16,atm,1
+502,Calle 15,university,1
+503,Calle 15,pharmacy,1
+504,Calle 14A,taxi,1
+505,Calle 14,fuel,1
+506,Calle 14,restaurant,1
+507,Calle 133,restaurant,1
+508,Calle 13 a,school,1
+509,Calle 126,parking_entrance,1
+510,Calle 125,parking_entrance,3
+511,Calle 124,parking_entrance,1
+512,Calle 121 B,parking_entrance,2
+513,Calle 12,hospital,1
+514,Calle 12,restaurant,1
+515,Calle 11A,doctors,1
+516,Calle 11,restaurant,1
+517,Calle 11,community_centre,1
+518,Calle 11,hospital,1
+519,Calle 103 c,place_of_worship,1
+520,Calle 10,community_centre,1
+521,Calle 10,bar,1
+522,Calle 1 A,place_of_worship,1
+523,Calle 1,community_centre,1
+524,Cadetes Argentinos,fuel,1
+525,C. Manuel Agustín Aguirre,school,1
+526,Brasil,restaurant,1
+527,Boyaca,pharmacy,2
+528,Bloco H,parking_entrance,2
+529,Bloco B,parking_entrance,1
+530,Blend Apartments & Brookfield Store,fast_food,1
+531,Beco da Coruja,school,1
+532,Basilea,restaurant,1
+533,Azuay,public_building,1
+534,Aviador Acevedo,restaurant,1
+535,Avenue Montravel,parking,1
+536,Avenida del Sol,parking_space,1
+537,Avenida Wiracocha,bus_station,1
+538,Avenida Vila Olímpica,police,1
+539,Avenida Uncia,bus_station,2
+540,Avenida Ulpiano Palacios,water_point,1
+541,Avenida Tamanaco,hospital,1
+542,Avenida Siqueira Campos,car_wash,1
+543,Avenida Silala,bus_station,1
+544,Avenida Santa Rosa,drinking_water,1
+545,Avenida Sajama,bus_station,2
+546,Avenida Río Parapeti,bus_station,3
+547,Avenida Río Caine,bus_station,2
+548,Avenida Pueblo Belén,bus_station,2
+549,Avenida Presidente Costa e Silva,ferry_terminal,1
+550,Avenida París,bus_station,1
+551,Avenida Papa Inocencio III,bus_station,1
+552,Avenida Mártires de la Democracia,bus_station,2
+553,Avenida Moises Gomes Perera,ferry_terminal,1
+554,Avenida Miguel Grau,police,1
+555,Avenida Michel,grit_bin,1
+556,Avenida Martín Cárdena,bus_station,2
+557,Avenida Marcelo Quiroga Santa Cruz,bus_station,1
+558,Avenida Machala,bank,1
+559,Avenida Los Ángeles,bus_station,2
+560,Avenida La Joya,bus_station,2
+561,Avenida Juan A. Maza - Costanera,bicycle_parking,1
+562,Avenida Joaquim Luiz Diniz,fuel,1
+563,Avenida Inglaterra,bus_station,2
+564,Avenida Inca Camacho,bus_station,1
+565,Avenida Humberto Asín Rivero,bus_station,2
+566,Avenida Gualberto Villarroel,bus_station,2
+567,Avenida Gonçalves Maia,clinic,1
+568,Avenida Goiás,fuel,1
+569,Avenida Gerónimo de Osorio,bus_station,1
+570,Avenida Franz Tamayo,bus_station,2
+571,Avenida Engenheiro José Salles,parking_entrance,2
+572,Avenida Elia Liut,parking_entrance,1
+573,Avenida Dr. Marcionilo Alves,ferry_terminal,1
+574,Avenida Desembargador Amaral,ferry_terminal,1
+575,Avenida Cuenca Madre de Dios,bus_station,1
+576,Avenida Chaco,bus_station,1
+577,Avenida Benjo Cruz,bus_station,3
+578,Avenida Beira Mar,bar,1
+579,Avenida Batalla de la Florida,bus_station,2
+580,Avenida Barqueiro Lourenço,ferry_terminal,1
+581,Avenida Autonomía,bus_station,1
+582,Avenida Arturo Prat,ferry_terminal,1
+583,Avenida Arquímedes,bus_station,2
+584,Avenida Antônio Gonçalves de Oliveira,bus_station,1
+585,Avenida 6 de Diciembre,bicycle_rental,1
+586,Avenida 6,hospital,1
+587,Avenida 17 NE,restaurant,1
+588,Avenida 12 de Janeiro,car_wash,1
+589,Av. Portoviejo,place_of_worship,1
+590,Arévalo,restaurant,1
+591,Arturo Prat,fire_station,1
+592,Artigas,clinic,1
+593,Angamos,school,1
+594,Andrea II,parking,1
+595,Amigorena,taxi,1
+596,Ambrosio Acosta,fast_food,1
+597,Amado Nervo,parking_entrance,1
+598,Alto de la Luna,taxi,1
+599,Alférez Sánchez,ferry_terminal,1
+600,Alamos,restaurant,1
+601,Alameda Flor do Amor,parking,1
+602,Alameda Fernão Cardim,taxi,1
+603,Agrupación Residencial Durango,fast_food,1
+604,Acesso para Avenida Vale dos Barris,bank,1
+605,Acesso Balsa,ferry_terminal,1
+606,Acesso - Espaço Eventos Sítio Barba de Bode,restaurant,1
+607,Abraham Lincoln,cafe,1
+608,Abelardo Flores,place_of_worship,1
+609,9 de Julio,veterinary,1
+610,763 - De los Claveles,school,1
+611,4 de Enero,school,1
+612,1ª Av. de Los Palos Grandes,parking_entrance,1
+613,12 de Febrero,bank,1
+614,10 de agosto,place_of_worship,1

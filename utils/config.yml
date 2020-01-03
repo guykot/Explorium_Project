@@ -1,0 +1,3 @@
+relation_file_path: 'utils/south-america-latest.osm.pbf.relation.parquet'
+ways_file_path: 'utils/south-america-latest.osm.pbf.way.parquet'
+nodes_file_path: 'utils/south-america-latest.osm.pbf.node.parquet'
