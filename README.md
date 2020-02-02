@@ -1,4 +1,4 @@
-# Explorium Project
+# OSM Project
 This document defines all the processes I have done through the OSM project.<br>
 **Data Processing and Algorithm:** <br>
 OPM defines 3 types of data elements: Nods, Relations and Ways.<br>
