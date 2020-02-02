@@ -1,5 +1,6 @@
 # OSM Project
 This document defines all the processes I have done through the OSM project.<br>
+Goal: Report amenities from Open Street Map (OSM) aggregated by street name for south America.<br>
 **Data Processing and Algorithm:** <br>
 OSM defines 3 types of data elements: Nods, Relations and Ways.<br>
 All the definitions can be found here:<br>
