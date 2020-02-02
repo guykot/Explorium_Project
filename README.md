@@ -1,5 +1,6 @@
 # OSM Project
 This document defines all the processes I have done through the OSM project.<br>
+<br>
 **Project's Goal:** Report amenities from Open Street Map (OSM) aggregated by street name for south America.<br>
 <br>
 **Data Processing and Algorithm:** <br>
@@ -7,7 +8,6 @@ OSM defines 3 types of data elements: Nods, Relations and Ways.<br>
 All the definitions can be found here:<br>
 https://wiki.openstreetmap.org/wiki/Elements<br>
 To aggregate the amenity nodes by the street name I used two different algorithms:<br>
-<br>
 Ways - Base algorithm.<br>
 Relation - Base algorithm.<br>
 
